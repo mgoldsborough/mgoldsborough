@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[<img src ="https://api.ratiorender.com/1/1&fill=4F34CA&scale=200">](test)
-
+![[Static Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-bage&logo=LinkedIn
+)](https://www.linkedin.com/in/goldsborough/)
 
 <!--
 **mgoldsborough/mgoldsborough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
