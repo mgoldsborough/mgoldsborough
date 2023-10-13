@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://api.ratiorender.com/1/1&fill=4F34CA" width="200px">
 <!--
 **mgoldsborough/mgoldsborough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
