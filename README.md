@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src ="<img src="https://api.ratiorender.com/1/1&fill=4F34CA&scale=200">]()
+[<img src ="https://api.ratiorender.com/1/1&fill=4F34CA&scale=200">]()
 
 
 <!--
