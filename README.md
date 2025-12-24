@@ -1,22 +1,15 @@
-### Hi there 👋
+### Hi 👋
 
-[<img src="https://img.shields.io/badge/Website-mg-%23.svg?color=red&style=for-the-badge" />](https://www.goldsborough.io)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/goldsborough/)
+I'm Mat.
 
-[<img src="https://api.ratiorender.com/1/1?fill=4F34CA&scale=50" />](https://www.ratiorender.com)
+I'm the Founder & CEO of [NimbleBrain](https://www.nimblebrain.ai). We're building tools that let businesses automate real work through conversation, not flowcharts. Our runtime is open source at [NimbleTools](https://github.com/NimbleBrainInc/nimbletools-core).
 
+---
 
-<!--
-**mgoldsborough/mgoldsborough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [goldsborough.io](https://www.goldsborough.io)
+- [LinkedIn](https://www.linkedin.com/in/goldsborough/)
+- [X](https://x.com/mgoldsborough)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're building in AI/automation or just want to compare notes, reach out.
