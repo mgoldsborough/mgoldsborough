@@ -2,7 +2,7 @@
 
 I'm Mat.
 
-I'm the Founder & CEO of [NimbleBrain](https://nimblebrain.ai) — we're building tools that let businesses automate real work through conversation, not flowcharts.
+I'm the Founder & CEO of [NimbleBrain](https://nimblebrain.ai). We're building tools that let businesses automate real work through conversation, not flowcharts.
 
 Open Source
 - [mpak](https://mpak.dev) — Open-source MCPB registry with built-in trust framework for securely publishing, hosting, and installing MCP server bundles.
