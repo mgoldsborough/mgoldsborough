@@ -6,8 +6,8 @@ I'm the Founder & CEO of [NimbleBrain](https://nimblebrain.ai) — we're buildin
 
 Open Source
 - [mpak](https://mpak.dev) — Open-source MCPB registry with built-in trust framework for securely publishing, hosting, and installing MCP server bundles.
-- [awesome-mcpb](https://github](https://github.com/mgoldsborough/awesome-mcpb) — Curated list of MCP servers packaged as mpak bundles.
-- [NimbleBrainInc)(https://github.com/nimblebraininc) — Our GitHub org with MCP servers, tools, and more.
+- [awesome-mcpb](https://github.com/mgoldsborough/awesome-mcpb) — Curated list of MCP servers packaged as mpak bundles.
+- [NimbleBrainInc](https://github.com/nimblebraininc) — Our GitHub org with MCP servers, tools, and more.
 ---
 
 [goldsborough.io](https://goldsborough.io) · [LinkedIn](https://www.linkedin.com/in/goldsborough/) · [X](https://x.com/mgoldsborough)
